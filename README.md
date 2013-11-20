@@ -267,3 +267,12 @@ Community driven list of useful things for front end developers. [How to contrib
 - [GitHowTo](http://githowto.com)
 - [Pro Git](http://git-scm.com/book)
 - [Try Git](http://try.github.com)
+
+## Sublime Text [packages](https://sublime.wbond.net)
+Best way is to install [Package Control](https://sublime.wbond.net/installation) and search for these packages
+- [Emmet](https://sublime.wbond.net/packages/Emmet)
+- [GitGutter](https://sublime.wbond.net/packages/GitGutter)
+- [Sass](https://sublime.wbond.net/packages/Sass)
+- [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
+- [Theme - Soda](https://sublime.wbond.net/packages/Theme%20-%20Soda)
+- [Theme - Sodarized](https://sublime.wbond.net/packages/Theme%20-%20Sodarized)
