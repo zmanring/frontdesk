@@ -262,6 +262,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [BLESS CSS](http://blesscss.com) — fighting IE's CSS selectors limit, and nice tool for checking CSS selectors count
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) — a nice diff tool
 - [Dash](http://kapeli.com/dash) — gives you instant offline access to 80+ API documentation sets.
+- [Mou](http://mouapp.com/) - Markdown editor with preview
 
 ## Git
 - [GitHowTo](http://githowto.com)
@@ -270,9 +271,10 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Sublime Text [packages](https://sublime.wbond.net)
 Best way is to install [Package Control](https://sublime.wbond.net/installation) and search for these packages
+
 - [Emmet](https://sublime.wbond.net/packages/Emmet)
+- [Git](https://sublime.wbond.net/packages/Git)
 - [GitGutter](https://sublime.wbond.net/packages/GitGutter)
 - [Sass](https://sublime.wbond.net/packages/Sass)
 - [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
 - [Theme - Soda](https://sublime.wbond.net/packages/Theme%20-%20Soda)
-- [Theme - Sodarized](https://sublime.wbond.net/packages/Theme%20-%20Sodarized)
